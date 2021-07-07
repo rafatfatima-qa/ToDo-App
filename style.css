@@ -1,0 +1,110 @@
+ /* body tag and background */
+ body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-style: normal;
+  background-color:black;
+  
+}
+
+.container{
+  background-image: url("dotted.jpg");
+  padding: 100px 40px;
+  margin-top: 60px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 60px;
+  height: 300px;
+  width: 800px;
+  
+   
+}
+.container1{
+  text-align:center; 
+  display: inline;
+  
+}
+
+.container2{
+  background-color: white;
+  margin-bottom: 100px;
+  width: 50%;
+   
+}
+
+/* Style the header */
+.header {
+  background-color: white;
+  padding: 3px;
+  margin-top: 60px;
+  width: 50%;
+  color: black;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgb(238, 237, 237);
+  
+}
+
+ul {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: left;
+}
+
+/* Style the list items */
+li {
+  cursor: pointer;
+  position: relative;
+  padding: 10px 0px 10px 0px;
+  list-style-type: none;
+  background: white;
+  font-size: 18px;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+/* Style the close button */
+.close {
+  position: absolute;
+  right: 0;
+  top: 10;
+  padding: 5px 8px 5px 8px;
+  border-radius: 50%;
+  border:0.5px solid grey;
+  background-color: #d9d9d9;
+}
+
+.close:hover {
+  background-color: #4b4645;
+  color: white;
+  border-radius: 50%;
+}
+
+/* Style the input */
+input {
+  border-radius: 10px;
+  border: thin solid grey;
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 5px;
+}
+
+/* Style the "Submit" button */
+.submit {
+  padding: 10px;
+  margin-left: 3px;
+  width: 20%;
+  background: #d9d9d9;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  cursor: pointer;
+  transition: 0.3s;
+  border: thin solid grey;
+  border-radius: 10px;
+}
+
+.submit:hover {
+  background-color: #bbb;
+}
