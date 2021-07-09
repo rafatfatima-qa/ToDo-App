@@ -19,7 +19,7 @@ OR
 - open index.html in your browser.
 
 ## Repo Link:
-
+https://github.com/rafatfatima-qa/ToDo-App
 
 ## Live Link:
-
+https://rafatfatima-qa.github.io/ToDo-App/
