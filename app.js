@@ -29,10 +29,8 @@ function newElement() {
     //listItems = document.getElementsByTagName('li');
     document.getElementById("number").innerHTML = close.length++;
   }
-  // listItems = document.getElementsByTagName('li');
-  // document.getElementById("number").innerHTML = listItems.length;
-}
 
+}
 
 // Create a "close" button and append it to each list item
 
@@ -49,6 +47,7 @@ for (let i = 0; i < myNodelist.length; i++) {
 }
 
 // Click on a close button to hide the current list item
+
 let close = document.getElementsByClassName("close");
 for (let i = 0; i < close.length; i++) {
 
