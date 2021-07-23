@@ -1,10 +1,10 @@
 # Javascript-Problems-Solving-Practice
 - This repo is for JavaScript Problem solving Practice activity.
 - This activity is based on making different live projects given by the instructor.
-- My task is to make a basic Product App.
+- My task is to make a basic To-Do App.
 
 ## What does this app do?
-- This is a basic product app with only filter items functionality.
+- This is a basic To-Do app with Add and Delete functions
 
 ## Technologies used:
 - HTML, CSS, JavaScript (for coding and implementation  on UI)
@@ -19,7 +19,7 @@ OR
 - open index.html in your browser.
 
 ## Repo Link:
-https://github.com/rafatfatima-qa/Product-App
+https://github.com/rafatfatima-qa/ToDo-App
 
 ## Live Link:
-https://rafatfatima-qa.github.io/Product-App/
+https://rafatfatima-qa.github.io/ToDo-App/
