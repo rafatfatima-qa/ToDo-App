@@ -7,7 +7,7 @@
 }
 
 .container{
-  background-image: url("dotted.jpg");
+  background-image: url("C:/Users/hp/Documents/CIRCLE-Info Tech/Project 4 - To Do App/images/dotted.jpg");
   padding: 100px 40px;
   margin-top: 60px;
   margin-left: 250px;
@@ -24,6 +24,12 @@
   
 }
 
+#myUL{
+  margin-top: 0px;
+  width:50%;
+  
+}
+
 .container2{
   background-color: white;
   margin-bottom: 100px;
@@ -36,10 +42,9 @@
   background-color: white;
   padding: 3px;
   margin-top: 60px;
-  width: 50%;
+  width: 49.2%;
   color: black;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgb(238, 237, 237);
-  
 }
 
 ul {
