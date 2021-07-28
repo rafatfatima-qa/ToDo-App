@@ -1,13 +1,13 @@
-# Javascript-Problems-Solving-Practice
+# To-Do App
 - This repo is for JavaScript Problem solving Practice activity.
 - This activity is based on making different live projects given by the instructor.
-- My task is to make a basic To-Do App.
+- This week's task is to make a basic To-Do App with Add and Delete tasks functionalities.
 
 ## What does this app do?
-- This is a basic To-Do app with Add and Delete functions
+- This is a basic To-Do app with Add and Delete functions.
 
 ## Technologies used:
-- HTML, CSS, JavaScript (for coding and implementation  on UI)
+- HTML, CSS, JavaScript (for coding and implementation on UI)
 
 ## Software needed to run for this app
 - VS Code (as Editor)
