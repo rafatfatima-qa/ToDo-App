@@ -20,7 +20,7 @@
 .container{
   display:flex;
   flex-direction: column;
-  background-image: url("../../Project 4 - To Do App/images/dotted.jpg");
+  background-image: url("../images/dotted.jpg");
   padding: 100px 40px;
   margin-top: 20px;
   margin-left: 200px;
